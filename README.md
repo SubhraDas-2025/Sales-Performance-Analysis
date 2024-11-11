@@ -8,7 +8,10 @@
 
 ●     Designed and implemented a comprehensive dashboard interface featuring advanced slicers for filtering
       by year, region, and salesperson, resulting in real-time visibility of 25 key performance indicators, 
-      enhancing data-driven decision-making 	
+      enhancing data-driven decision-making 
+
+      
+![Screenshot 2024-11-12 002300](https://github.com/user-attachments/assets/72b6e108-9fbc-442c-ac17-2f22d9294cfd)
 
 Dashboard :
 
